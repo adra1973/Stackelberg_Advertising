@@ -9,9 +9,9 @@ This program provides a computational algorithm to approximate Stackelberg equil
 In the first case, in order to simplify the calculations, the action sets for both firms are equal.
 
 The Stackelberg equilibria are calculated with a procedure that involves rutines of otimization for both players and the empirical distribution as an estimator of the Binomial distribution.
-Specifically, the program provides equilibrium strategies in the full-information game, as well as equilibrium strategies for some simulated empirical games, both in the set of mixed strategies.
+Specifically, the program provides equilibrium strategies in the full-information game, as well as equilibrium strategies for some simulated empirical games, both in the set of pure strategies.
 
-Among the variables that must be specified for the operation of the program are the number of states, number of trajectories, number of estimations, number of stages, the parameters of the Binomial distribution, the discount factor, etc. In fact.
+Among the variables that must be specified for the operation of the program are the number of states, number of trajectories, number of estimations, number of stages, the parameters of the Binomial distribution, the discount factor, etc.
 
 For more information, suggestions or comments contact to Alan Robles at e-mail: alan_daniel@yahoo.com
 
